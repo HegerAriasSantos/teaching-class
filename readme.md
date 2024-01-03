@@ -1,4 +1,4 @@
-# Learning Path
+# Learning Path ( Consola )
 
 ## Estructura de control
 - Variables
