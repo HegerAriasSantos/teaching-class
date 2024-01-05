@@ -2,6 +2,7 @@
 
 ## Estructura de control
 - Variables
+- tipos de datos
 - condiciones (if, else, elseif)
 - selectivas (switch)
   - apps para practicar:
