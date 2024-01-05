@@ -68,10 +68,6 @@ ej  2 y 3
 - 2 x 1 = 1
 - 2 x 2 = 4 
 - 2 x 3 = 6
----
-- 3 x 1 = 1
-- 3 x 2 = 6
-- 3 x 3 = 9
 
 se puede hacer que no muestre multiplicaciones repetidas (esto es opcional pero da puntos extras)
 
