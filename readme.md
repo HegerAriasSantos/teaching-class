@@ -31,7 +31,7 @@ Isésceles o Esca leno
       El usuario debe seleccionar una opción. y a continuación, el programa deber solicitar el ingreso de 2 números enteros. Una vez ingresados los números, se deberá evaluar con un switch, realizando la operación correspondiente a la opción seleccionada.La ejecución debe realizarse una y otra vez, hasta que el usuario seleccione la opción # 5.
     - app que pida 2 números enteros, e imprima los números pares que existen entre los 2.Nota: Se debe validar que el segundo número sea mayor que el primero.
 - array (agregar, modificar, borrar y leer elementos dentro)
-- funciones.
+- funciones ( argumentos por valor y por referencia, organizar el codigo con fucniones).
 
  ### Proyecto 
  Crear una aplicacion de consola que sea un menu el cual tenga 5 opciones:
