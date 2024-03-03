@@ -124,3 +124,44 @@ El proyecto consiste en desarrollar un sistema de gestión de empleados para una
 - **Paso 10 (Opcional): Clase para CRUD Genérico**: Creación de una clase genérica `CRUD<T>` que implemente métodos para realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en una lista de objetos de tipo `T`.
 
 Este proyecto tiene como objetivo crear un sistema completo y funcional para gestionar los empleados de una empresa, aplicando los conceptos de POO y C# aprendidos en cada paso.
+
+## Requerimientos:
+
+### Registro de Empleados:
+
+- El sistema debe permitir registrar nuevos empleados proporcionando su nombre, edad y salario.
+- Se deben validar los datos proporcionados para garantizar que sean válidos y coherentes.
+
+### Actualización de Información:
+
+- Se debe proporcionar la opción de actualizar la información de un empleado existente, incluyendo su nombre, edad y salario.
+- Las actualizaciones deben reflejarse correctamente en la lista de empleados.
+
+### Eliminación de Empleados:
+
+- Debe ser posible eliminar un empleado existente de la lista de empleados.
+- Se deben proporcionar controles para evitar la eliminación accidental de empleados.
+
+### Mostrar Detalles de Empleados:
+
+- El sistema debe permitir mostrar los detalles de todos los empleados almacenados en la lista.
+
+- Los detalles mostrados deben incluir el nombre, edad y salario de cada empleado.
+
+### Diseño Orientado a Objetos:
+
+- El sistema debe seguir los principios de la programación orientada a objetos (POO), utilizando clases, herencia, encapsulamiento, polimorfismo, interfaces y tipos genéricos según sea necesario.
+  Aplicación de Principios SOLID:
+
+- Se debe aplicar los principios de diseño SOLID (Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion) para garantizar un diseño flexible y mantenible.
+
+### Clase para Operaciones CRUD Genéricas (Opcional):
+
+- Se puede implementar una clase genérica CRUD<T> que contenga métodos para realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en una lista de objetos de tipo T.
+- Esta clase proporcionaría funcionalidad genérica para operaciones de CRUD en cualquier tipo de dato.
+
+### Observaciones:
+
+- El sistema debe ser modular y flexible, permitiendo futuras expansiones y modificaciones fácilmente.
+- Se debe prestar especial atención a la validación de datos y al manejo de excepciones para garantizar la robustez y la integridad de los datos del sistema.
+- Se recomienda seguir las mejores prácticas de codificación y documentación para facilitar el mantenimiento y la colaboración en el proyecto.
