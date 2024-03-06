@@ -70,8 +70,31 @@
 
 - Sobrecargar el constructor de la clase `Persona` para permitir la creación de objetos con diferentes conjuntos de parámetros. (se creativo).
 - Implementar un metodo que implemente sobrecarga llamado: `Comunicarse()`
+- 
+## Paso 6: Clase Abstracta vs Interfaces
 
-## Paso 6: Tipos Genéricos
+**Tema: Clase Abstracta vs Interfaces**
+
+### Concepto de Clase Abstracta:
+Una clase abstracta es una clase que no puede ser instanciada directamente y puede contener métodos abstractos (métodos sin implementación) y métodos concretos (métodos con implementación). Las clases abstractas se utilizan para proporcionar una estructura común y definir un conjunto de métodos que deben ser implementados por las clases derivadas.
+
+### Concepto de Interface:
+Una interfaz define un contrato que especifica un conjunto de métodos y propiedades que una clase debe implementar. A diferencia de las clases abstractas, las interfaces solo pueden contener definiciones de métodos y propiedades, pero no pueden proporcionar implementaciones. Las interfaces se utilizan para definir un comportamiento común que puede ser compartido por diferentes clases, independientemente de su jerarquía de herencia.
+
+### Tareas de Práctica:
+
+1. Crear una clase abstracta `FiguraGeometrica` que contenga un método abstracto `CalcularArea()` y un método concreto `ImprimirInformacion()` que imprima información general sobre la figura geométrica.
+
+2. Definir una interfaz `IDibujable` que contenga un método `Dibujar()` para representar gráficamente la figura geométrica.
+
+3. Implementar la clase `Cuadrado` que herede de `FiguraGeometrica` e implemente la interfaz `IDibujable`. En la clase `Cuadrado`, proporcionar una implementación para el método `CalcularArea()` y para el método `Dibujar()`.
+
+4. Implementar la clase `Circulo` que herede de `FiguraGeometrica` e implemente la interfaz `IDibujable`. En la clase `Circulo`, proporcionar una implementación para el método `CalcularArea()` y para el método `Dibujar()`.
+
+Este ejercicio te ayudará a comprender la diferencia entre clases abstractas e interfaces y cómo se utilizan en la programación orientada a objetos para proporcionar una estructura común y definir comportamientos específicos. ¡Adelante con la práctica!
+
+
+## Paso 7: Tipos Genéricos
 
 ### Tema: Tipos Genéricos
 
@@ -85,7 +108,7 @@
 
 El uso de tipos genéricos proporciona flexibilidad y reutilización de código al permitir que las clases y métodos trabajen con diferentes tipos de datos sin necesidad de escribir código específico para cada tipo. ¡Explora y practica con los tipos genéricos para mejorar tu comprensión de la programación orientada objetos.
 
-## Paso 7: Manejo de Excepciones
+## Paso 8: Manejo de Excepciones
 
 1. **Manejo de Excepciones**: Aprender a identificar y manejar errores y excepciones que pueden ocurrir durante la ejecución de un programa.
 2. **Try-Catch**: Entender cómo utilizar bloques try-catch para manejar excepciones y controlar el flujo del programa.
@@ -94,7 +117,7 @@ El uso de tipos genéricos proporciona flexibilidad y reutilización de código 
 
 - Implementar un método que realice una operación aritmética y manejar la excepción si se produce un error (por ejemplo, división por cero).
 
-## Paso 8: Programación Orientada a Objetos Avanzada
+## Paso 9: Programación Orientada a Objetos Avanzada
 
 ### Tema: Patrones de Diseño y SOLID
 
