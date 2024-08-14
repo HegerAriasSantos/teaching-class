@@ -141,9 +141,10 @@ El proyecto consiste en desarrollar un sistema de gestión de empleados para una
 - **Paso 4: Polimorfismo y Interfaces**: Definición de la interfaz `IGestorEmpleado` para gestionar las operaciones relacionadas con los empleados y su implementación en una clase `GestorEmpleado`.
 - **Paso 5: Sobrecarga de Métodos y Constructores**: Sobrecarga del constructor de la clase `Empleado` y implementación de métodos sobrecargados para actualizar la información de los empleados.
 - **Paso 6: Manejo de Excepciones**: Implementación de manejo de excepciones en los métodos que pueden generar errores, como la eliminación de un empleado inexistente.
-- **Paso 7: Programación Orientada a Objetos Avanzada**: Implementación de patrones de diseño como Singleton para manejar la conexión a una base de datos y refactorización del código para cumplir con los principios SOLID.
+- **Paso 7: Programación Orientada a Objetos Avanzada**: Implementación de patrones de diseño como Singleton para manejar la 
+clase Service que maneja los empleados la cual no usarara metodos estaticos y refactorización del código para cumplir con los principios SOLID.
 - **Paso 8: Tipos Genéricos**: Creación de una clase genérica `Lista<T>` para almacenar objetos de cualquier tipo y definición de métodos genéricos para manipular la lista de empleados.
-- **Paso 9: Aplicación de Principios SOLID**: Refactorización del código para cumplir con los principios de diseño SOLID (Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion).
+- **Paso 9: Aplicación de Principios SOLID**: Refactorización del código para cumplir con los principios de diseño SOLID (Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation).
 - **Paso 10 (Opcional): Clase para CRUD Genérico**: Creación de una clase genérica `CRUD<T>` que implemente métodos para realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en una lista de objetos de tipo `T`.
 
 Este proyecto tiene como objetivo crear un sistema completo y funcional para gestionar los empleados de una empresa, aplicando los conceptos de POO y C# aprendidos en cada paso.
