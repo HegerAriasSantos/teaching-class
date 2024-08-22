@@ -123,6 +123,7 @@ El uso de tipos genéricos proporciona flexibilidad y reutilización de código 
 
 1. **Patrones de Diseño**: Conocer algunos patrones de diseño comunes, como Singleton, Factory, Observer, etc., y entender cuándo y cómo aplicarlos.
 2. **SOLID**: Familiarizarse con los principios SOLID (Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion) y aprender a aplicarlos en el diseño de clases.
+3. **DRY y STUPID**: Investigar.
 
 ### Tarea de Práctica:
 
