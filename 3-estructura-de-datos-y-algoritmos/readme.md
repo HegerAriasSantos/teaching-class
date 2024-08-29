@@ -5,7 +5,7 @@
 - **Conceptos Básicos**: Entender qué son las estructuras de datos y los algoritmos, y por qué son importantes.
 - **Big O Notation**: Aprender la notación Big O para analizar la eficiencia de algoritmos.
 - **Complejidad Temporal y Espacial**: Diferenciar entre complejidad temporal y espacial y cómo afectan el rendimiento.
-- **Recursos Adicionales**: Recomiendo la lectura del siguiente libro: [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) O su segunda edición [Grokking Algorithms 2](https://www.manning.com/books/grokking-algorithms-second-edition) para una introducción visual y amigable a estos conceptos.
+- **Recursos Adicionales**: Recomiendo la lectura del siguiente libro: [Grokking Algorithms 2](https://www.manning.com/books/grokking-algorithms-second-edition) para una introducción visual y amigable a estos conceptos.
 
 ## Paso 1: Estructuras de Datos Básicas
 
