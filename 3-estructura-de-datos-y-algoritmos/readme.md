@@ -9,7 +9,7 @@
 
 ## Paso 1: Estructuras de Datos Básicas
 
-1. **Arreglos y Listas**: Comprender cómo funcionan los arreglos y las listas, sus operaciones básicas y complejidades.
+1. **Arreglos, Listas y Listas enlazadas**: Comprender cómo funcionan los arreglos y las listas, sus operaciones básicas y complejidades.
 2. **Pilas (Stacks)**: Aprender el funcionamiento de una pila, sus operaciones y usos comunes.
 3. **Colas (Queues)**: Entender las colas, sus operaciones y aplicaciones prácticas.
 
