@@ -7,7 +7,7 @@
 - **Tipos de Patrones**: Familiarizarse con los tipos de patrones (Creacionales, Estructurales, Comportamentales).
 - **Clean Code**: Entender los principios de código limpio y su importancia en el mantenimiento del software.
 - **Refactorización**: Comprender qué es la refactorización y por qué es importante.
-- **Recursos Adicionales**: Se recomienda la lectura del libro "Clean Code" de Robert C. Martin y "Design Patterns" de Erich Gamma et al.
+- **Recursos Adicionales**: Se recomienda la lectura del libro [Clean Code](./recursos/Clean%20Code.pdf) de Robert C. Martin y [Design Patterns](./recursos/Head%20First%20Design%20Patterns.pdf) de Erich Gamma et al y [Refactoring](./recursos/Refactoring%20-%20Improving%20Design.pdf) de Martin Fowler y [Clean Architecture](./recursos/Clean%20Architecture%20Craftsman%20Guide.pdf) de Robert C. Martin.
 
 ## Paso 1: Patrones de Diseño Creacionales
 
