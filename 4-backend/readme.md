@@ -1,3 +1,5 @@
+PD: También puedes visitar la version en JAVA [click](./java/readme.md)
+
 # Ruta de Aprendizaje para Manejar el Backend usando ASP.NET
 
 ## Paso 0: Introducción al Backend y HTTP
