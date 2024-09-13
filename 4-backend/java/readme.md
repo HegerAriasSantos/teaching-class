@@ -175,6 +175,8 @@ Desarrollar un backend completo para una plataforma de redes sociales utilizando
 
 10. Documentación de API:
     - Documentar tu API utilizando Swagger o SpringFox.
+   
+11. Manejar cookies.
 
 Este proyecto te permitirá aplicar todos los conceptos aprendidos a lo largo de la ruta de aprendizaje, incluyendo SQL, Spring Boot, APIs RESTful, autenticación, autorización y WebSockets. También te dará experiencia en la construcción de una aplicación compleja del mundo real con varias características interconectadas.
 
