@@ -64,6 +64,7 @@
 4. **JPQL y Consultas Nativas**: Aprender a escribir consultas JPQL y SQL nativas.
 5. **Relaciones**: Implementar diferentes tipos de relaciones (Uno a Uno, Uno a Muchos, Muchos a Muchos).
 6. **Mapper**: Implementar configuracion de mapeo de entidades a Dtos.
+7. **Paginacion**: Implementar paginacion en cada servicio.
 
 ### Tarea Práctica
 
